@@ -1,4 +1,4 @@
-# Podklady k předmětu TPB na univerzitě TUL
+# Podklady k předmětu ALG na univerzitě TUL
 
 Tento repozitář obsahuje podklady a vypracované civčení k předmětu ALG na Technické univerzitě v Liberci (TUL).
 
